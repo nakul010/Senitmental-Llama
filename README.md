@@ -1,4 +1,4 @@
-# Educational Tutor Chatbot with Advanced Sentiment Analysis
+# Educational Tutor Chatbot with Advanced Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iglV3GZU7V0yEVldL9vyDr8R706Zsh6x?usp=sharing)
 
 ## Project Overview
 
